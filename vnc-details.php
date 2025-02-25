@@ -23,6 +23,7 @@ $created_at = isset($data['createdat']) ? date("Y-m-d H:i:s", $data['createdat']
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="synacknetwork.com">
     <title>VNC Details</title>
     <style>
         body {
